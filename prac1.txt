@@ -1,0 +1,29 @@
+<!Doctype.css>
+<html>
+ <head>
+  <style>
+ body{backgrounc-color=#462}
+  </style>
+  <title>
+   Practice code
+  </title>
+  <link 
+   href="stylesheet.css"
+   ref="style sheet"
+   type="text/css"
+  >
+ </head>
+
+ <body>
+  <h1>
+   <ins> Practise code 1 </ins> 
+  </h1>
+  <p>
+   Hello my name is Katleho, this is my first practice code i hope you enjoy my upcoming codes and appreciate my work 
+  </p>
+  <p>
+   Enjoy.
+  </p>
+ </body>
+
+</html>

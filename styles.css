@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header { 
+ background-color: #1a1a1a;
+ color: #f060sa;
+ height: 30vh;
+ 
+ display: flex;
+ justify-content: center;
+ align-content: center;
+}
+
+.nav {
+ background-color: #666666;
+ color: #e23d4e;
+ height: 20vh;
+ 
+ display: flex;
+ justify-content: center;
+ align-content: center;
+}
